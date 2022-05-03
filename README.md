@@ -23,4 +23,4 @@ git clone git@github.com:Dylkln/functional_annotation.git
 ```
 python get_annotation.py -i <INTERPROSCAN LAUNCHER PATH> -p <PATH TO PROTEIN SEQUENCES DIRECTORY> -a <PATH TO OUTPUT>
 ```
-The program will call interproscan for every file contained in you protein directory and redirect the output to your *-a* argument.
+The program will call interproscan for every file contained in your protein directory and redirect the output to your *-a* argument.
